@@ -9,6 +9,4 @@ h2 {
     color: ;
     text-align:center;
 	font-family:"Tahoma";
-    text-shadow: 2px 0 #FFA800, -2px 0 #FFA800, 0 2px #FFA800, 0 -2px #FFA800,
-                 1px 1px #FFA800, -1px -1px #FFA800, 1px -1px #FFA800, -1px 1px #FFA800;
 }

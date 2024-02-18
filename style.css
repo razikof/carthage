@@ -56,7 +56,6 @@ header {
     margin-left: 10px;
     background-color: #783050;
     background-image: url(3.png);
-    filter: blur(2px);
     border: 5px #E0B451;
     display: flex;
     padding: 40px;

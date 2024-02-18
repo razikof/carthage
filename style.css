@@ -11,11 +11,8 @@ h2 {
 	font-family:"Tahoma";
 }
 body {
-    background-color: ;
+    	background-color: #260a15;
 	background-size: cover;
 	background-attachment: fixed;
 	font-family:"Tahoma";
-}
-#grad {
-  background-image: linear-gradient(to bottom right, #401d2a, #703249);
 }

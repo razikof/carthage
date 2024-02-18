@@ -70,6 +70,6 @@ header {
     transition: 1s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-#tatdd:hover, #tatglobal:hover, #tatjh:hover, #tatmp:hover, #tatsa:hover, #tatss:hover {
+#carthagecity:hover{
     transform: scale(1.03)
 }

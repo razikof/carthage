@@ -23,7 +23,7 @@ header {
 #navbar {
   overflow: hidden;
   margin: -8px;
-  background-color: #000;
+  background-color:#000000;
   backdrop-filter:blur(10px);
 }
 

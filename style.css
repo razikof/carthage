@@ -50,12 +50,11 @@ header {
   padding-top: 60px;
 } 
 
-#tatdd {
-    margin-top: 20px;
+#carthagecity {
+    margin-top: 15px;
     margin-right: 10px;
     margin-left: 10px;
-    background-color: #7AC39C;
-    background-image: url("./images/tatddbg.png");
+    background-color: #783050;
     display: flex;
     padding: 40px;
     justify-content: center;

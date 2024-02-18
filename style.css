@@ -50,7 +50,7 @@ header {
   padding-top: 60px;
 } 
 
-#carthagecity {
+#carthage {
     margin-top: 15px;
     margin-right: 10px;
     margin-left: 10px;
@@ -70,12 +70,12 @@ header {
     transition: 1s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-#carthagecity h1 {
+#carthage h1 {
     text-align: center;
     padding:-5px;
     color:#E0B451;
 }
 
-#carthagecity:hover{
+#carthage:hover{
     transform: scale(1.03)
 }

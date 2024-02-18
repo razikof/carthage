@@ -55,6 +55,7 @@ header {
     margin-right: 10px;
     margin-left: 10px;
     background-color: #783050;
+    background-image: url(3.png) ;
     display: flex;
     padding: 40px;
     justify-content: center;

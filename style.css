@@ -22,6 +22,7 @@ header {
 }
 #navbar {
   overflow: hidden;
+  margin: -8px;
   background-color: #333;
 }
 

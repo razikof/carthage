@@ -56,7 +56,7 @@ header {
     margin-left: 10px;
     background-color: #783050;
     background-image: url(3.png);
-    
+    background-size: auto;
     display: flex;
     padding: 40px;
     justify-content: center;

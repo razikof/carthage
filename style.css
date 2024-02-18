@@ -16,3 +16,7 @@ body {
 	background-attachment: fixed;
 	font-family:"Tahoma";
 }
+header {
+	margin: -8px;
+	background-color:#000000;
+}

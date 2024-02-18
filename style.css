@@ -56,7 +56,7 @@ header {
     margin-left: 10px;
     background-color: #783050;
     background-image: url(3.png);
-    filter: blur(8px);
+    filter: blur(2px);
     display: flex;
     padding: 40px;
     justify-content: center;

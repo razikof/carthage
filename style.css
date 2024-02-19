@@ -31,6 +31,8 @@ header img {
   margin: -8px;
   background-color:#000000;
   backdrop-filter:blur(10px);
+  position: sticky;
+  top: 0;
   z-index: 1;
 }
 
@@ -42,20 +44,6 @@ header img {
   padding: 14px;
   text-decoration: none;
 }
-
-.content {
-  padding: 16px;
-}
-
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.sticky + .content {
-  padding-top: 60px;
-} 
 
 #carthage {
     margin-top: 20px;

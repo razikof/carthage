@@ -25,6 +25,7 @@ header {
   margin: -8px;
   background-color:#000000;
   backdrop-filter:blur(10px);
+  z-index: 1;
 }
 
 #navbar a {

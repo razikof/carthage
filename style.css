@@ -20,6 +20,12 @@ header {
 	margin: -8px;
 	background-color:#000000;
 }
+
+header img {
+  max-width: 80%;
+}
+
+
 #navbar {
   overflow: hidden;
   margin: -8px;

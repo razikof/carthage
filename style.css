@@ -176,6 +176,18 @@ header img {
 	max-width: 90%
 }
 
+#sardinia img {
+	max-width: 90%
+}
+
+#netherlands img {
+	max-width: 90%
+}
+
+#mars img {
+	max-width: 90%
+}
+
 #carthage:hover, #algiers:hover {
     transform: scale(1.03)
 }

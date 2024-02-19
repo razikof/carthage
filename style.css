@@ -59,6 +59,7 @@ header {
     background-image: url(3.png);
     border: 1px #E0B451;
     border-radius:2px;
+    background-size: cover;
     display: flex;
     padding: 40px;
     justify-content: center;

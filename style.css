@@ -102,6 +102,10 @@ header img {
 	max-width: 90%
 }
 
+#carthage img {
+	max-width: 90%
+}
+
 #carthage:hover, #algiers:hover {
     transform: scale(1.03)
 }

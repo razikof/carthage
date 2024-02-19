@@ -101,3 +101,9 @@ header img {
 #carthage:hover, #algiers:hover {
     transform: scale(1.03)
 }
+buttons {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: stretch;
+}

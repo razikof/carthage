@@ -69,6 +69,75 @@ header img {
     transition: 1s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
+#sardinia {
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: black;
+    background-image:;
+    border: 1px #E0B451;
+    border-radius:2px;
+    background-size: cover;
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+    border-radius: 30px;
+    height: 200px;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    flex-grow: 1;
+    flex-basis: 0;
+    min-width: 40%;
+    transition: 1s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+#netherlands {
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: black;
+    background-image:;
+    border: 1px #E0B451;
+    border-radius:2px;
+    background-size: cover;
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+    border-radius: 30px;
+    height: 200px;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    flex-grow: 1;
+    flex-basis: 0;
+    min-width: 40%;
+    transition: 1s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+#mars {
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: black;
+    background-image:;
+    border: 1px #E0B451;
+    border-radius:2px;
+    background-size: cover;
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+    border-radius: 30px;
+    height: 200px;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    flex-grow: 1;
+    flex-basis: 0;
+    min-width: 40%;
+    transition: 1s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
 #carthage h1 {
     text-align: center;
     padding:-5px;

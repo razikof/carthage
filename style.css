@@ -98,6 +98,10 @@ header img {
     transition: 1s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
+#algiers img {
+	max-width: 90%
+}
+
 #carthage:hover, #algiers:hover {
     transform: scale(1.03)
 }

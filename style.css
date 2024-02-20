@@ -29,7 +29,7 @@ header img {
 
 #navbar {
   overflow: hidden;
-  margin: -8px;
+  margin: -10px;
   background-color:#000000;
   backdrop-filter:blur(10px);
   position: sticky;

@@ -37,15 +37,34 @@ header img {
   z-index: 1;
 }
 
-#navbar a {
-  float: left;
-  font-family:"Lexend";
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
+#activenavbar {
+    color: black;
+    font-weight: 600;
+    margin-left: 2px;
+    margin-right: 2px;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: white;
+    border-radius: 20px;
 }
+
+#headerlink {
+    color: white;
+    font-weight: 400;
+    margin-left: 2px;
+    margin-right: 2px;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+    transition: 1s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
 
 #carthage {
     margin-top: 20px;

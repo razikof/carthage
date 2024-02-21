@@ -237,6 +237,10 @@ header img {
 	max-width: 90%
 }
 
+#cardisc img {
+	max-width="90%"
+}
+
 #carthage:hover, #algiers:hover, #sardinia:hover, #netherlands:hover, #mars:hover,#cardisc:hover {
     transform: scale(1.03)
 }
